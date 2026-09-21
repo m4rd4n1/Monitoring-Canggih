@@ -53,6 +53,7 @@ pip install pillow opencv-python
 build ke .exe 
 simpan file ini dengan nama build.bat
 
+
 @echo off
 setlocal EnableDelayedExpansion
 title Build Monitoring Canggih
