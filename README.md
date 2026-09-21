@@ -52,8 +52,8 @@ pip install pillow opencv-python
 
 ---
 
-build ke .exe 
-simpan file ini dengan nama build.bat
+'''build ke .exe 
+'''simpan file ini dengan nama build.bat
 
 ---
 
