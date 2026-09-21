@@ -56,6 +56,7 @@ pip install pillow opencv-python
 '''simpan file ini dengan nama build.bat
 
 ---
+Install:
 
 @echo off
 setlocal EnableDelayedExpansion
