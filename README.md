@@ -7,6 +7,9 @@ dilengkapi alarm turun, filter grup, tema gelap/terang, dan tampilan foto/video 
 
 ---
 
+<img width="1076" height="727" alt="image" src="https://github.com/user-attachments/assets/22db862f-a9ec-4940-9fb4-a716b2149413" />
+
+
 ## ✨ Fitur
 
 - **Ping monitoring multithread** — hingga 20 host diproses paralel (ThreadPoolExecutor).
